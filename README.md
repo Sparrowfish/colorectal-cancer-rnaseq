@@ -40,14 +40,6 @@ them in a `data/` folder:
 | Top KEGG pathway (up) | Cell cycle (adj. p = 4.5×10⁻¹²) |
 | Top KEGG pathway (down) | Mineral absorption (adj. p = 1.2×10⁻⁵) |
 
-## Installation
-
-```bash
-git clone https://github.com/Sparrowfish/colorectal-cancer-rnaseq.git
-cd colorectal-cancer-rnaseq
-pip install -r requirements.txt
-jupyter notebook
-```
 
 ## Tools & Libraries
 
