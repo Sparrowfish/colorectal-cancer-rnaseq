@@ -7,7 +7,7 @@ plots, PCA, and clustered heatmaps.
 
 ## Dataset
 
-- **Source:** [GSE292858](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292858) — NCBI GEO
+- **Source:** [GSE292858](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292858) - NCBI GEO
 - **Samples:** 39 colorectal tumor, 34 matched normal tissue
 - **Data type:** Batch-corrected TPM counts
 
@@ -20,7 +20,7 @@ them in a `data/` folder:
 
 1. Data loading and metadata parsing from SOFT file
 2. Log2(TPM+1) transformation
-3. PCA — quality control and sample separation
+3. PCA - quality control and sample separation
 4. Welch's t-test + Benjamini-Hochberg FDR correction
 5. DEG filtering (adj. p < 0.05, |log2FC| > 1)
 6. Volcano plot visualization
@@ -56,4 +56,4 @@ matplotlib | seaborn | gseapy
 
 ## Author
 
-Mehrak Malekpour — [GitHub](https://github.com/Sparrowfish)
+Mehrak Malekpour - [GitHub](https://github.com/Sparrowfish)
