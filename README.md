@@ -53,7 +53,3 @@ jupyter notebook
 
 Python 3.12 | pandas | numpy | scipy | statsmodels | scikit-learn | 
 matplotlib | seaborn | gseapy
-
-## Author
-
-Mehrak Malekpour - [GitHub](https://github.com/Sparrowfish)
